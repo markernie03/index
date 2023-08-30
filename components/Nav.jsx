@@ -6,7 +6,7 @@ const Nav = () => {
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 md:p-8">
         <Link href="/" className="flex items-center no-underline text-black">
           <span className="self-center text-2xl font-semibold whitespace-nowrap">
-            ErnieWevDev
+            ErnieWebDev
           </span>
         </Link>
         <div className="flex md:order-2">
