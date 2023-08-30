@@ -8,15 +8,14 @@ export default function Home() {
     {
       id: "1",
       title: "Comming Soon",
-      description: "Pending",
+      description: "To update",
       image: "https://adminlte.io/wp-content/uploads/2022/02/tailwindcss-templates.png",
 
-      longDescription: `asdasdas`
     }, 
     {
       id: "2",
       title: "Comming Soon",
-      description: "Pending",
+      description: "To update",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNtytowpDyjufV9n7QzMdjK-i-kYwrnIPXp0oCfSwBzugb1-Q0ecUM4wB02F1-Q2T2Kc&usqp=CAU" 
     }
     
