@@ -3,7 +3,7 @@ import Link from "next/link";
 const ProjectCard = ({ project }) => {
   return (
     <Link
-      href={`./projects/${project.id}`}
+      href="facebook.com"
       className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl"
     >
       <img
