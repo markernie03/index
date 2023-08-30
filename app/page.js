@@ -41,7 +41,7 @@ export default function Home() {
              <span className="text-blue-500">Web Developer</span> from <span className="text-blue-500">Philippines</span>  
             </p>
             <p className="text-gray-500 text-lg md:text-left text-center">
-              I am a Web Developer with experience in Node.js nothing special but I have knowledge in web develoment.
+              I am a Web Developer with experience in Node.js using NextJS, Tailwind.CSS.
             </p>
             <div className="flex gap-4 justify-center md:justify-start">
               <button className="bg-blue-600 text-white px-4 py-2 rounded-md">
