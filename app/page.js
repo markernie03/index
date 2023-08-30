@@ -78,7 +78,7 @@ export default function Home() {
     return (
       <div className="flex flex-col md:flex-row items-center justify-center md:gap-4 mt-10 md:mt-40 pb-10 ">
         <img
-          src="https://media.licdn.com/dms/image/D5603AQEr7LcQSheOqw/profile-displayphoto-shrink_800_800/0/1692100184866?e=1698883200&v=beta&t=UMw0OhjhFLvnn_7bA6hYc3k-pov1xsAX8eHIN9vTRt8"
+          src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t39.30808-6/359746489_6714841381899280_5397832173784774151_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH9_SPRQEbty48gFK3kXZTsV31ojF4rvrpXfWiMXiu-ulZQuCdK6YBYr2T9g-hg1WLOOvJZDyQ6hMOAyzbgfxiM&_nc_ohc=01d9ENiqRFIAX-abias&_nc_zt=23&_nc_ht=scontent.fcrk3-2.fna&oh=00_AfAjhEsDVT9eAdn5TVSP76OFlnjhK528qxh1LZeMeWn3jA&oe=64F45E9D"
           alt="Developer profile image"
           style={{
             height: "500px",
