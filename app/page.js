@@ -1,5 +1,5 @@
 import ProjectCard from "@/components/ProjectCard";
-import Projects from "@/projects/id"
+
 
 
 export default function Home() {
