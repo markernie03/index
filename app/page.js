@@ -90,9 +90,7 @@ export default function Home() {
         <div className="flex flex-col gap-4 md:w-2/3 md:ml-4 mt-20 md:mt-10">
           <h1 className="text-3xl md:text-5xl font-bold">About Me</h1>
           <p className="text-gray-500 text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            voluptatum, quibusdam, voluptate, quia voluptas quod quos
-            reprehenderit quas voluptatibus quidem dolorum. Quisquam voluptatum,
+            Comming Soon
           </p>
           <button className="bg-blue-500 text-white rounded-md px-4 py-2">
           <a href="/">Download CV</a>
