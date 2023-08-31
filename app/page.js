@@ -47,7 +47,7 @@ export default function Home() {
               <a href="mailto:markernie00@gmail.com" target="_blank">Contact Me</a>
               </button>
               <button className="bg-blue-200 text-gray-600 px-4 py-2 rounded-md">
-                <a href="/">Download CV</a>
+                <a href="">Download CV</a>
               </button>
             </div>
         </div>
@@ -67,7 +67,7 @@ export default function Home() {
           }}
         >
           {projects.map((project, index) => {
-            return <ProjectCard key={index} project={project} />;
+             <ProjectCard key={index} project={project} />;
           })}
         </div>
       </div>
