@@ -90,7 +90,7 @@ export default function Home() {
         <div className="flex flex-col gap-4 md:w-2/3 md:ml-4 mt-20 md:mt-10">
           <h1 className="text-3xl md:text-5xl font-bold">About Me</h1>
           <p className="text-gray-500 text-lg">
-            2023 class graduated from baluag university I take Information Technology major in Web & Mobile Development.
+            I graduate from Baliuag University in 2023 with a major in Information Technology specializing in Web & mobile Development.
           </p>
           <button className="bg-blue-500 text-white rounded-md px-4 py-2">
           <a href="/">Download CV</a>
