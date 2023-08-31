@@ -67,7 +67,7 @@ export default function Home() {
           }}
         >
           {projects.map((project, index) => {
-             <ProjectCard key={index} project={project} />;
+            return <ProjectCard key={index} project={project} />;
           })}
         </div>
       </div>
