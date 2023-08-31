@@ -1,10 +1,9 @@
 import Link from "next/link";
-import page from "app/page"
 
 const ProjectCard = ({ project }) => {
   return (
     <Link
-      href={`./projects/${project.id}`}
+      href="./"
       className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl"
     >
       <img
