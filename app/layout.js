@@ -5,7 +5,7 @@ import Nav from '@/components/Nav'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Mark Ernie',
+  title: 'Mark Ernie || Portfolio',
   description: 'About Me',
 }
 
