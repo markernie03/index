@@ -47,7 +47,7 @@ export default function Home() {
               <a href="mailto:markernie00@gmail.com" target="_blank">Contact Me</a>
               </button>
               <button className="bg-blue-200 text-gray-600 px-4 py-2 rounded-md">
-                <a href="https://download1514.mediafire.com/hocynnhjdflgtabOLQLavYWujTBcllxW1_XEWu4TZuXlQIKViWUwc8M2Svc_D0CgOa2EpLem-CQKkLmjnDA6vVtqoNPDfJuK4UmrwfHCBlpahSiWTyeBeQFJlPGrdhms6tKagG8Pe6NMco609c6qRXbruqWLHj0rbUJ-a05enC01Mw/ipt6ihr4qqzi5w6/Mark+Ernie+Resume.pdf">Download CV</a>
+                <a href="https://drive.google.com/file/uc?export=download&id=1VMI6AELKSiV2b5KZNEE3owklnRuTw4Ao">Download CV</a>
               </button>
             </div>
         </div>
@@ -93,7 +93,7 @@ export default function Home() {
             I graduated from Baliuag University in 2023 with a major in Information Technology specializing in Web & Mobile Development.
           </p>
           <button className="bg-blue-500 text-white rounded-md px-4 py-2">
-          <a href="https://download1514.mediafire.com/hocynnhjdflgtabOLQLavYWujTBcllxW1_XEWu4TZuXlQIKViWUwc8M2Svc_D0CgOa2EpLem-CQKkLmjnDA6vVtqoNPDfJuK4UmrwfHCBlpahSiWTyeBeQFJlPGrdhms6tKagG8Pe6NMco609c6qRXbruqWLHj0rbUJ-a05enC01Mw/ipt6ihr4qqzi5w6/Mark+Ernie+Resume.pdf">Download CV</a>
+          <a href="https://drive.google.com/file/uc?export=download&id=1VMI6AELKSiV2b5KZNEE3owklnRuTw4Ao">Download CV</a>
           </button>
         </div>
       </div>
