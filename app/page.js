@@ -36,7 +36,7 @@ export default function Home() {
 
         <div className="flex flex-col gap-4 md:w-2/3">
           <p className="text-3xl md:text-5xl font-bold md:text-lef text-center">
-            Hello , I'm <span className="text-blue-500">Mark Ernie</span>. I am a {" "}
+            Hello, I'm <span className="text-blue-500">Mark Ernie</span>. I am a {" "}
              <span className="text-blue-500">Web Developer</span> from <span className="text-blue-500">Philippines</span>  
             </p>
             <p className="text-gray-500 text-lg md:text-left text-center">
