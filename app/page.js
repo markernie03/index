@@ -61,11 +61,7 @@ export default function Home() {
     return (
       <div className="flex flex-col items-center justify-center gap-4 mt-40 mb-30 ">
         <h1 className="text-5xl font-bold">Projects</h1>
-        <div
-          className="flex mt-20 flex-wrap justify-center md:justify-start"
-          style={{
-            gap: "2rem",
-          }}>
+        <div className="flex mt-20 flex-wrap justify-center md:justify-start" style={{ gap: "2rem",}}>
           {projects.map((project, index) => {
             return <ProjectCard key={index} project={project} />;
           })}
