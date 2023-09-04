@@ -1,5 +1,5 @@
 import ProjectCard from "@/components/ProjectCard";
-
+import Image from "next/image";
 
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
       id: "1",
       title: "Coming Soon",
       description: "To update",
-      image: "/assets/images/Bankit.png",
+      Image: '/assets/images/Bankit.png',
 
     }, 
     {
