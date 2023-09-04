@@ -7,9 +7,9 @@ export default function Home() {
   const projects = [
     {
       id: "1",
-      title: "Coming Soon",
-      description: "To update",
-      image: src='/assets/images/Bankit.png',
+      title: "Bankist",
+      description: "Playground bank System",
+      image: "https://drive.google.com/file/d/1-OhLaXuM70vddKVALQUWElWXeIapve7B/view?usp=sharing",
 
     }, 
     {
