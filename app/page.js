@@ -65,7 +65,9 @@ export default function Home() {
           style={{
             gap: "2rem",
           }}>
-            href="https://web.facebook.com/?_rdc=1&_rdr"
+          {projects.map((project, index) => {
+            return href="https://web.facebook.com/?_rdc=1&_rdr";
+          })}
         </div>
       </div>
     );
