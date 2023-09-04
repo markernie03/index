@@ -9,7 +9,7 @@ export default function Home() {
       id: "1",
       title: "Coming Soon",
       description: "To update",
-      Image: '/assets/images/Bankit.png',
+      Image: './assets/images/Bankit.png',
 
     }, 
     {
