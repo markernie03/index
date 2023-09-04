@@ -9,7 +9,7 @@ export default function Home() {
       id: "1",
       title: "Bankit",
       description: "Bank System",
-      image: "https://lh3.googleusercontent.com/drive-viewer/AITFw-wLflbMvBt3isUO47Qo7DUoB7-1BYVtP4LOiig5EzgCwL4h7a55ibXm8gjpJe7Eje8wJiNN7Wo28Mpvs6kYfr1PBATV=s1600",
+      image: "https://lh3.googleusercontent.com/drive-viewer/AITFw-webjbNddNXiiOkeBlBuNSjAp7nqf3_OcOx3w19M7QyFSkdIL6jSp3ueQhhccsMJc9oHmhJubAOEz56CcI8gXwVAQzZog=s600",
       link: "https://markernie03.github.io/Bankit_Project/"
     }, 
     {
