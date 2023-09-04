@@ -66,7 +66,7 @@ export default function Home() {
             gap: "2rem",
           }}>
           {projects.map((project, index) => {
-            return href="https://web.facebook.com/?_rdc=1&_rdr";
+            return <ProjectCard key={index} project={project} />;
           })}
         </div>
       </div>
