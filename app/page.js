@@ -10,13 +10,14 @@ export default function Home() {
       title: "Bankit",
       description: "Bank System",
       image: "https://lh3.googleusercontent.com/drive-viewer/AITFw-xyPeLT3s2_w79n1xNE9CtCGhEBP9VuM-owqtwmuGyMVnQPli_Zv1ruWXsrVEFxWzaKBNl9y4jmC2LkzV0l0U6WxC6_=s1600",
-
+      link: "https://web.facebook.com/markernie03/"
     }, 
     {
       id: "2",
       title: "Coming Soon",
       description: "To update",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNtytowpDyjufV9n7QzMdjK-i-kYwrnIPXp0oCfSwBzugb1-Q0ecUM4wB02F1-Q2T2Kc&usqp=CAU" 
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNtytowpDyjufV9n7QzMdjK-i-kYwrnIPXp0oCfSwBzugb1-Q0ecUM4wB02F1-Q2T2Kc&usqp=CAU",
+      link: "https://web.facebook.com/markernie03/"
     }
     
   ];
