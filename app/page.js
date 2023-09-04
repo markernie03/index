@@ -64,11 +64,8 @@ export default function Home() {
           className="flex mt-20 flex-wrap justify-center md:justify-start"
           style={{
             gap: "2rem",
-          }}
-        >
-          {projects.map((project, index) => {
-            return <ProjectCard key={index} project={project} />;
-          })}
+          }}>
+            href="https://web.facebook.com/?_rdc=1&_rdr"
         </div>
       </div>
     );
