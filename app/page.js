@@ -7,9 +7,9 @@ export default function Home() {
   const projects = [
     {
       id: "1",
-      title: "Bankist",
-      description: "Playground bank System",
-      image: "https://drive.google.com/file/d/1-OhLaXuM70vddKVALQUWElWXeIapve7B/view?usp=sharing",
+      title: "Bankit",
+      description: "Bank System",
+      image: "https://lh3.googleusercontent.com/drive-viewer/AITFw-xyPeLT3s2_w79n1xNE9CtCGhEBP9VuM-owqtwmuGyMVnQPli_Zv1ruWXsrVEFxWzaKBNl9y4jmC2LkzV0l0U6WxC6_=s1600",
 
     }, 
     {
