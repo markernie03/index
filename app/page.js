@@ -9,7 +9,7 @@ export default function Home() {
       id: "1",
       title: "Coming Soon",
       description: "To update",
-      image: "https://adminlte.io/wp-content/uploads/2022/02/tailwindcss-templates.png",
+      image: "/assets/images/Bankit.png",
 
     }, 
     {
