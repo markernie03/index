@@ -4,7 +4,7 @@ const ProjectCard = ({ project }) => {
   return (
     <Link
     href={`${project.link}`}
-      className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl"
+    className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-50"
     >
       <img
         className="object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
