@@ -13,7 +13,7 @@ const projects = [
       title: "Coming Soon",
       description: "To update",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNtytowpDyjufV9n7QzMdjK-i-kYwrnIPXp0oCfSwBzugb1-Q0ecUM4wB02F1-Q2T2Kc&usqp=CAU",
-      link: "https://web.facebook.com/markernie03/"
+      link: "https://nextjs.org/"
     }
   ];
 
