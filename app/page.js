@@ -44,10 +44,10 @@ export default function Home() {
               I am a Web Developer with experience in Node.js using NextJS, Tailwind.CSS.
             </p>
             <div className="flex gap-4 justify-center md:justify-start">
-              <button className="bg-blue-600 text-white px-4 py-2 rounded-md">
+              <button className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-700">
               <a href="mailto:markernie00@gmail.com" target="_blank">Contact Me</a>
               </button>
-              <button className="bg-blue-200 text-gray-600 px-4 py-2 rounded-md">
+              <button className="bg-blue-200 text-gray-600 px-4 py-2 rounded-md hover:bg-blue-300">
                 <a href="https://drive.google.com/uc?export=download&id=1duA_lq73yAmDRZBPRCr0R_rHGAYwWlr9">Download CV</a>
               </button>
             </div>
@@ -88,7 +88,7 @@ export default function Home() {
           <p className="text-gray-500 text-lg">
             I graduated from Baliuag University in 2023 with a major in Information Technology specializing in Web & Mobile Development.
           </p>
-          <button className="bg-blue-500 text-white rounded-md px-4 py-2">
+          <button className="bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-700">
           <a href="https://drive.google.com/uc?export=download&id=1duA_lq73yAmDRZBPRCr0R_rHGAYwWlr9">Download CV</a>
           </button>
         </div>
