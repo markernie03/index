@@ -1,7 +1,7 @@
 const Hero = () => {
     return (
       <div className="flex md:flex-row-reverse flex-col items-center justify-center gap-4 mt-10 md:mt-40">
-          <img className="p-1 rounded-full ring-2 ring-gray-300 hover:ring-gray-400" 
+          <img className="p-1 rounded-full ring-2 ring-gray-300" 
           style={{
             width: "350px",
             height: "350px",
